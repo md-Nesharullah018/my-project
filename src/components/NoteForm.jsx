@@ -7,7 +7,7 @@ export default function NoteForm({
     handleAddOrUpdate,
   }) {
     return (
-      <div className="bg-white p-5 rounded-xl shadow-sm">
+      <div className="bg-yellow-100 p-5 rounded-xl shadow-sm">
         <input
           type="text"
           placeholder="Title"

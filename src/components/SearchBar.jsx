@@ -9,4 +9,3 @@ export default function SearchBar({ search, setSearch }) {
       />
     );
   }
-  // Personal Data Manager
